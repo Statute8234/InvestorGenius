@@ -7,7 +7,7 @@ InvestorGenius is a simulation project that simulates investment and financial m
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Rating: 5/10](#Rating)
 
 # About
 
@@ -25,3 +25,5 @@ Continual improvements can enhance the value of InvestorGenius, such as incorpor
 random, statistics, matplotlib.pyplot
 
 # Rating
+
+For its functionality, which generates a plot based on user input. However, there are areas for improvement, such as code organization, variable naming, magic numbers, global variables, redundant functions, comments, graph labeling, and user interaction. The code could benefit from better organization, clearer variable names, minimizing global variables, simplifying the `Investor()` function, and removing the `Business` class from a loop. Additionally, the code lacks clear comments explaining the logic behind certain operations, making it difficult to understand at first glance. The graph could also benefit from better labeling, such as the missing y-axis label and lack of a legend. Furthermore, more user interaction or feedback could improve the user experience. Addressing these issues can make the code more readable, maintainable, and user-friendly.
